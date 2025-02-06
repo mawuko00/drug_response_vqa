@@ -1,0 +1,696 @@
+,bcr_patient_uuid,pharmaceutical_therapy_drug_name,pharmaceutical_therapy_type,vital_status,tumor_status,treatment_outcome_first_course,treatment_best_response,death_days_to,gender,age_at_initial_pathologic_diagnosis,icd_10,tumor_tissue_site,tumor_type
+0,fc222f23-b3b2-4ac0-bc61-e8e8fa5cc160,Temodar,Chemotherapy,Dead,WITH TUMOR,,,234,MALE,67,C71.9,Central nervous system,Low-grade gliomas
+1,230f5fa7-aa36-41ea-b40b-08f520767bd5,Avastin,Chemotherapy,Dead,WITH TUMOR,,,1335,FEMALE,44,C71.9,Central nervous system,Low-grade gliomas
+2,952dfd5d-e65a-4307-b6a9-2ed2b0d2d9ce,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,37,C71.9,Central nervous system,Low-grade gliomas
+3,c6cf2b8e-40ed-4c9f-8419-d868bd5afe11,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,47,C71.9,Central nervous system,Low-grade gliomas
+4,e8d3d888-e5fc-4469-ad0b-2c1df6e04790,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,39,C71.9,Central nervous system,Low-grade gliomas
+5,f86fa219-34e9-4812-8edf-2b66d7219779,Bevacizumab,Chemotherapy,Dead,WITH TUMOR,,,639,MALE,43,C71.9,Central nervous system,Low-grade gliomas
+6,f86fa219-34e9-4812-8edf-2b66d7219779,Temodar,Chemotherapy,Dead,WITH TUMOR,,,639,MALE,43,C71.9,Central nervous system,Low-grade gliomas
+7,b6c2c9bd-625b-4a98-830c-49c344f6cb5f,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,53,C71.9,Central nervous system,Low-grade gliomas
+8,bdfade49-9059-4665-beea-c55117ba6564,Temodar,Chemotherapy,Dead,WITH TUMOR,,,194,FEMALE,54,C71.9,Central nervous system,Low-grade gliomas
+9,9ee6e821-3af2-42d7-9d14-f0ca455f338c,Temodar,Chemotherapy,Dead,WITH TUMOR,,,538,MALE,58,C71.9,Central nervous system,Low-grade gliomas
+10,9ee6e821-3af2-42d7-9d14-f0ca455f338c,Avastin,Chemotherapy,Dead,WITH TUMOR,,,538,MALE,58,C71.9,Central nervous system,Low-grade gliomas
+11,3f70c3e3-0131-466f-92aa-0a63ab3d4258,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,48,C71.9,Central nervous system,Low-grade gliomas
+12,42fe260f-520b-4fac-8c09-d2b31aed59fb,Temodar,Chemotherapy,Alive,,,,,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+13,c16d9f69-26f9-4ec7-b2d5-ff9f7dacfe0f,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,51,C71.9,Central nervous system,Low-grade gliomas
+14,8cba230b-46db-4d35-8123-3879eba32402,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,22,C71.9,Central nervous system,Low-grade gliomas
+15,a5d3f3fb-6541-419d-b47e-720d438f1bff,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,57,C71.9,Central nervous system,Low-grade gliomas
+16,dc5bdd21-b23f-400e-bbe2-4c98a517fc9e,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,26,C71.9,Central nervous system,Low-grade gliomas
+17,60b30a95-3e4c-413a-9de6-16a5bca163c4,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,43,C71.9,Central nervous system,Low-grade gliomas
+18,60b30a95-3e4c-413a-9de6-16a5bca163c4,Vinblastine,Chemotherapy,Alive,WITH TUMOR,,,,MALE,43,C71.9,Central nervous system,Low-grade gliomas
+19,60b30a95-3e4c-413a-9de6-16a5bca163c4,Avastin,Chemotherapy,Alive,WITH TUMOR,,,,MALE,43,C71.9,Central nervous system,Low-grade gliomas
+20,b7cd3b44-ef6a-4207-a44f-14f5b3b56ed4,BCNU,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+21,ae2db022-eb4f-4b65-89b6-9fd4439ddeef,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+22,ae2db022-eb4f-4b65-89b6-9fd4439ddeef,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+23,0b54cda4-7568-481e-b0c6-2c5c6de0026c,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,37,C71.0,Central nervous system,Low-grade gliomas
+24,0b54cda4-7568-481e-b0c6-2c5c6de0026c,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,37,C71.0,Central nervous system,Low-grade gliomas
+25,bbfb5399-8d43-4b75-bf90-23ec142697d7,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,36,C71.0,Central nervous system,Low-grade gliomas
+26,bbfb5399-8d43-4b75-bf90-23ec142697d7,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,36,C71.0,Central nervous system,Low-grade gliomas
+27,9d0c1552-00a7-4f0a-a04a-a82e721ee4e3,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+28,9d0c1552-00a7-4f0a-a04a-a82e721ee4e3,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+29,9d0c1552-00a7-4f0a-a04a-a82e721ee4e3,Gleevec,Targeted Molecular therapy,Alive,TUMOR FREE,,,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+30,9d0c1552-00a7-4f0a-a04a-a82e721ee4e3,Gleevec,Targeted Molecular therapy,Alive,TUMOR FREE,,,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+31,d05079f2-9883-46e6-ad06-9e561f08d819,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,34,C71.0,Central nervous system,Low-grade gliomas
+32,d05079f2-9883-46e6-ad06-9e561f08d819,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,34,C71.0,Central nervous system,Low-grade gliomas
+33,d05079f2-9883-46e6-ad06-9e561f08d819,Temozolamide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,34,C71.0,Central nervous system,Low-grade gliomas
+34,15a6ad18-a81c-4f5b-80ae-ef56ccf722f9,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,61,C71.0,Central nervous system,Low-grade gliomas
+35,15a6ad18-a81c-4f5b-80ae-ef56ccf722f9,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,61,C71.0,Central nervous system,Low-grade gliomas
+36,FB6437F9-ADE8-4C33-A0D0-CEACB2BF784D,Temodar,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,MALE,38,C71.4,Central nervous system,Low-grade gliomas
+37,1BFF1E07-4923-43D5-B2D3-CB46B6568EED,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,MALE,32,C71.2,Central nervous system,Low-grade gliomas
+38,40587B69-0F62-4A2A-88CB-1BD711377F19,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,41,C71.1,Central nervous system,Low-grade gliomas
+39,7704E4A8-C7AA-4288-B1ED-68C23ABBE924,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,34,C71.1,Central nervous system,Low-grade gliomas
+40,0536F465-1650-4411-823C-C660BC7F3ADC,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,59,C71.0,Central nervous system,Low-grade gliomas
+41,12F02422-585D-4068-BBDE-BC279C6A89AB,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Stable Disease,,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+42,887DEF39-E212-490D-8849-2BC932FCEFF0,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,,,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+43,176D89D7-F8F1-4A72-B45A-31CBE1632A30,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+44,DF22BC30-96E2-42DE-9A39-2954DB49841D,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,65,C71.0,Central nervous system,Low-grade gliomas
+45,9922DE10-9280-44C0-B86F-6D1CA7E55BF2,Temodar,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,FEMALE,56,C71.0,Central nervous system,Low-grade gliomas
+46,5F853A88-811D-4EB4-914E-D90862C5D2A2,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,FEMALE,55,C71.0,Central nervous system,Low-grade gliomas
+47,BA62B5EB-E169-4B41-B949-E004D66E98A1,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,36,C71.0,Central nervous system,Low-grade gliomas
+48,0709DBCC-0828-4066-AA01-96F059E5FA97,CDR0000654697,Chemotherapy,Alive,TUMOR FREE,,,,MALE,47,C71.0,Central nervous system,Low-grade gliomas
+49,2c03e8b9-8856-43a7-853d-5ec51a6e5330,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,607,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+50,2c03e8b9-8856-43a7-853d-5ec51a6e5330,AT 101,Targeted Molecular therapy,Dead,WITH TUMOR,,,607,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+51,2c03e8b9-8856-43a7-853d-5ec51a6e5330,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,607,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+52,2c03e8b9-8856-43a7-853d-5ec51a6e5330,BCNU (carmustine),Chemotherapy,Dead,WITH TUMOR,,,607,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+53,2cf49bac-dea1-45ff-9e1d-09f5a2ac5215,Temozolomide,Chemotherapy,Alive,,,,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+54,2cf49bac-dea1-45ff-9e1d-09f5a2ac5215,Temozolomide,Chemotherapy,Alive,,,,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+55,5b744051-7355-4e15-b035-0621e709a5d7,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,MALE,29,C71.0,Central nervous system,Low-grade gliomas
+56,5b744051-7355-4e15-b035-0621e709a5d7,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,MALE,29,C71.0,Central nervous system,Low-grade gliomas
+57,5b744051-7355-4e15-b035-0621e709a5d7,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,MALE,29,C71.0,Central nervous system,Low-grade gliomas
+58,dcd0856d-423a-40d7-8070-4c0988d61416,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+59,dcd0856d-423a-40d7-8070-4c0988d61416,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+60,dcd0856d-423a-40d7-8070-4c0988d61416,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+61,CB1E9916-C03F-405A-A797-15823DF09C8E,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,52,C71.0,Central nervous system,Low-grade gliomas
+62,F005FA99-7E4E-4308-B11C-83B25683B1FD,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,FEMALE,43,C71.0,Central nervous system,Low-grade gliomas
+63,DA40E6D3-A2A9-4517-AAA2-AEF6C3892EBF,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Partial Response,,FEMALE,49,C71.0,Central nervous system,Low-grade gliomas
+64,B37ABDC8-B9E3-4F1A-B16D-2E59442DB335,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+65,B2B57E93-2722-4546-9A0B-20155B86EDEF,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+66,977118C8-B446-4696-AA6E-9F1A1055E241,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,43,C71.0,Central nervous system,Low-grade gliomas
+67,3B19B5D1-13AF-4669-A082-1BD546048185,Temodar,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,49,C71.0,Central nervous system,Low-grade gliomas
+68,92a7c445-2217-400a-bdcd-df41502416b6,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,,,,FEMALE,34,C71.9,Central nervous system,Low-grade gliomas
+69,92a7c445-2217-400a-bdcd-df41502416b6,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,34,C71.9,Central nervous system,Low-grade gliomas
+70,92a7c445-2217-400a-bdcd-df41502416b6,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,34,C71.9,Central nervous system,Low-grade gliomas
+71,5af8ada5-86b5-4832-8a8e-e975ecca5515,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,MALE,48,C71.9,Central nervous system,Low-grade gliomas
+72,55c78413-d102-4113-930e-6d842862fe75,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,40,C71.9,Central nervous system,Low-grade gliomas
+73,55c78413-d102-4113-930e-6d842862fe75,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,40,C71.9,Central nervous system,Low-grade gliomas
+74,9ed5af0e-c87f-46ff-81e7-9d3041b4034e,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,205,FEMALE,61,C71.9,Central nervous system,Low-grade gliomas
+75,2d42dd0e-be3a-46ae-a635-c6f9c52f9fa2,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,29,C71.9,Central nervous system,Low-grade gliomas
+76,b95afb1a-a1df-4d85-ad34-191928e28a77,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,57,C71.9,Central nervous system,Low-grade gliomas
+77,b95afb1a-a1df-4d85-ad34-191928e28a77,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,57,C71.9,Central nervous system,Low-grade gliomas
+78,b95afb1a-a1df-4d85-ad34-191928e28a77,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,,,,FEMALE,57,C71.9,Central nervous system,Low-grade gliomas
+79,e326c1dd-2ef8-431b-a657-440aa3f35ff3,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,49,C71.9,Central nervous system,Low-grade gliomas
+80,e326c1dd-2ef8-431b-a657-440aa3f35ff3,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,49,C71.9,Central nervous system,Low-grade gliomas
+81,eb42625e-fbbb-4bee-bbe9-315b3ca2138a,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,34,C71.9,Central nervous system,Low-grade gliomas
+82,eb42625e-fbbb-4bee-bbe9-315b3ca2138a,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,34,C71.9,Central nervous system,Low-grade gliomas
+83,ddfd76dc-15d6-4efc-85ea-31674161ebf3,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,37,C71.9,Central nervous system,Low-grade gliomas
+84,ddfd76dc-15d6-4efc-85ea-31674161ebf3,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,37,C71.9,Central nervous system,Low-grade gliomas
+85,48607130-c09a-491d-882f-7d2591d13182,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,43,C71.9,Central nervous system,Low-grade gliomas
+86,48607130-c09a-491d-882f-7d2591d13182,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,43,C71.9,Central nervous system,Low-grade gliomas
+87,48607130-c09a-491d-882f-7d2591d13182,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,43,C71.9,Central nervous system,Low-grade gliomas
+88,48607130-c09a-491d-882f-7d2591d13182,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,,,,FEMALE,43,C71.9,Central nervous system,Low-grade gliomas
+89,1cc53ade-73c0-492b-a7dc-328269fd0e66,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+90,fcd9e1c4-bddb-4856-844c-03df48fba499,Hydroxyurea,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+91,fcd9e1c4-bddb-4856-844c-03df48fba499,PCV,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+92,1937318f-a1bb-4f48-b8ec-4aadd406e52a,Carmustine BCNU,Chemotherapy,Dead,,,,1585,MALE,66,C71.0,Central nervous system,Low-grade gliomas
+93,42cc9620-98fb-4164-a3b2-28d084ca5a03,PCV,Chemotherapy,Dead,WITH TUMOR,,,682,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+94,42cc9620-98fb-4164-a3b2-28d084ca5a03,PCV,Chemotherapy,Dead,WITH TUMOR,,,682,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+95,42cc9620-98fb-4164-a3b2-28d084ca5a03,Hydroxyurea,Chemotherapy,Dead,WITH TUMOR,,,682,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+96,6355cade-7b3a-43a8-9f1f-8e7bc45755a8,Tamoxifen,Chemotherapy,Dead,WITH TUMOR,,,1491,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+97,6355cade-7b3a-43a8-9f1f-8e7bc45755a8,PCV,Chemotherapy,Dead,WITH TUMOR,,,1491,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+98,6355cade-7b3a-43a8-9f1f-8e7bc45755a8,PCV,Chemotherapy,Dead,WITH TUMOR,,,1491,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+99,152eaa99-05f5-4d30-bfb1-494a9a900e49,Isotretinoin,Targeted Molecular therapy,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+100,152eaa99-05f5-4d30-bfb1-494a9a900e49,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+101,152eaa99-05f5-4d30-bfb1-494a9a900e49,9 Aminocamptothecin,Chemotherapy,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+102,152eaa99-05f5-4d30-bfb1-494a9a900e49,Tamoxifen,Hormone Therapy,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+103,152eaa99-05f5-4d30-bfb1-494a9a900e49,Capecitabine,Chemotherapy,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+104,152eaa99-05f5-4d30-bfb1-494a9a900e49,Bromo deoxyuridine,,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+105,152eaa99-05f5-4d30-bfb1-494a9a900e49,PCV,Chemotherapy,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+106,152eaa99-05f5-4d30-bfb1-494a9a900e49,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2286,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+107,e695b780-17f4-4e71-9120-7c6bcafaa3a7,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1401,MALE,45,C71.0,Central nervous system,Low-grade gliomas
+108,97cb8701-7d63-4142-b404-006fbb3ecb0b,Sorafenib (Bay 43-9006),Chemotherapy,Dead,WITH TUMOR,,,2660,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+109,97cb8701-7d63-4142-b404-006fbb3ecb0b,Procarbazine,Chemotherapy,Dead,WITH TUMOR,,,2660,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+110,97cb8701-7d63-4142-b404-006fbb3ecb0b,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2660,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+111,152f028e-ee29-40e0-8e75-5cafffacbd45,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,214,MALE,52,C71.0,Central nervous system,Low-grade gliomas
+112,8daa29c0-f652-4130-a004-5183bbe30c63,BCNU (Carmustine),Chemotherapy,Dead,WITH TUMOR,,,354,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+113,8daa29c0-f652-4130-a004-5183bbe30c63,Hydroxyurea,Chemotherapy,Dead,WITH TUMOR,,,354,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+114,8daa29c0-f652-4130-a004-5183bbe30c63,Gliadel Wafer,Chemotherapy,Dead,WITH TUMOR,,,354,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+115,c0d47e0f-4918-4e06-9db6-201671b1259c,Carboplatin,Chemotherapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+116,c0d47e0f-4918-4e06-9db6-201671b1259c,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+117,c0d47e0f-4918-4e06-9db6-201671b1259c,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+118,c0d47e0f-4918-4e06-9db6-201671b1259c,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+119,c0d47e0f-4918-4e06-9db6-201671b1259c,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+120,c0d47e0f-4918-4e06-9db6-201671b1259c,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+121,c0d47e0f-4918-4e06-9db6-201671b1259c,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+122,c0d47e0f-4918-4e06-9db6-201671b1259c,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+123,c0d47e0f-4918-4e06-9db6-201671b1259c,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+124,c0d47e0f-4918-4e06-9db6-201671b1259c,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+125,c0d47e0f-4918-4e06-9db6-201671b1259c,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,4068,FEMALE,24,C71.0,Central nervous system,Low-grade gliomas
+126,9239a22e-80b1-49a2-b0d5-cbab7e415254,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,605,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+127,9239a22e-80b1-49a2-b0d5-cbab7e415254,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,605,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+128,9239a22e-80b1-49a2-b0d5-cbab7e415254,PS-341 Bortrezomib,Chemotherapy,Dead,WITH TUMOR,,,605,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+129,9239a22e-80b1-49a2-b0d5-cbab7e415254,Cilengitide,Chemotherapy,Dead,WITH TUMOR,,,605,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+130,c13a429c-99ea-478c-ae95-fa499b9ea9fa,Temozolomide,Chemotherapy,Dead,,,,512,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+131,c13a429c-99ea-478c-ae95-fa499b9ea9fa,Temozolomide,Chemotherapy,Dead,,,,512,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+132,c13a429c-99ea-478c-ae95-fa499b9ea9fa,Isotrectinoin (acccutane),,Dead,,,,512,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+133,70939245-41e0-4845-a473-5fef719b9828,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2875,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+134,70939245-41e0-4845-a473-5fef719b9828,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2875,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+135,70939245-41e0-4845-a473-5fef719b9828,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2875,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+136,70939245-41e0-4845-a473-5fef719b9828,Afatinib,Chemotherapy,Dead,WITH TUMOR,,,2875,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+137,14375753-a69f-41e0-b910-2bb8e84cc43a,Capecitabine,Chemotherapy,Dead,,,,3470,FEMALE,23,C71.0,Central nervous system,Low-grade gliomas
+138,14375753-a69f-41e0-b910-2bb8e84cc43a,Temozolomide,Chemotherapy,Dead,,,,3470,FEMALE,23,C71.0,Central nervous system,Low-grade gliomas
+139,14375753-a69f-41e0-b910-2bb8e84cc43a,Celebrex,,Dead,,,,3470,FEMALE,23,C71.0,Central nervous system,Low-grade gliomas
+140,14375753-a69f-41e0-b910-2bb8e84cc43a,Temozolomide,Chemotherapy,Dead,,,,3470,FEMALE,23,C71.0,Central nervous system,Low-grade gliomas
+141,467a7e6a-8cba-4ef1-8afd-6c8eaccbc3df,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,56,C71.0,Central nervous system,Low-grade gliomas
+142,cd69d509-a652-4257-a8d3-767296bbb4ec,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+143,cd69d509-a652-4257-a8d3-767296bbb4ec,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+144,215e117c-4d76-463c-8f8a-fd6a28d23929,Lomustine,Chemotherapy,Dead,WITH TUMOR,,,349,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+145,215e117c-4d76-463c-8f8a-fd6a28d23929,Vincristine,Chemotherapy,Dead,WITH TUMOR,,,349,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+146,215e117c-4d76-463c-8f8a-fd6a28d23929,Procarbazine,Chemotherapy,Dead,WITH TUMOR,,,349,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+147,427c40f6-d1bd-49f2-b303-a975793b937e,Lomustin,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+148,427c40f6-d1bd-49f2-b303-a975793b937e,Vincristine,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+149,427c40f6-d1bd-49f2-b303-a975793b937e,Procarbazine,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+150,01c4ca12-ac08-41dd-9e4f-bfb0971688a2,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+151,834e560a-a506-456d-baf2-a206ca058153,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,456,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+152,834e560a-a506-456d-baf2-a206ca058153,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,456,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+153,d61b5d20-4d6d-4fdc-afe8-4b100b686eda,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,269,MALE,59,C71.0,Central nervous system,Low-grade gliomas
+154,ec82a00f-3909-4781-8ae2-e54cbc1ac7ac,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+155,ec82a00f-3909-4781-8ae2-e54cbc1ac7ac,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+156,ec82a00f-3909-4781-8ae2-e54cbc1ac7ac,Irinotecan,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+157,f18dab99-26b0-4727-89a9-7f16bd382356,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,933,FEMALE,57,C71.0,Central nervous system,Low-grade gliomas
+158,f18dab99-26b0-4727-89a9-7f16bd382356,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,933,FEMALE,57,C71.0,Central nervous system,Low-grade gliomas
+159,1b43ff0c-cf13-4620-b5c7-7abd9129612f,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+160,1b43ff0c-cf13-4620-b5c7-7abd9129612f,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+161,145f87a3-5e86-4a87-8e49-b166a2271d02,Tomaxifen,Chemotherapy,Dead,WITH TUMOR,,,242,MALE,69,C71.0,Central nervous system,Low-grade gliomas
+162,145f87a3-5e86-4a87-8e49-b166a2271d02,Procarbazine,Chemotherapy,Dead,WITH TUMOR,,,242,MALE,69,C71.0,Central nervous system,Low-grade gliomas
+163,292cf158-dd47-44a1-912b-73626095a0f7,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,576,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+164,292cf158-dd47-44a1-912b-73626095a0f7,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,576,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+165,81622da8-9f36-4ea3-b223-d831d8c10f87,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1339,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+166,81622da8-9f36-4ea3-b223-d831d8c10f87,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,1339,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+167,81622da8-9f36-4ea3-b223-d831d8c10f87,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,,1339,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+168,81622da8-9f36-4ea3-b223-d831d8c10f87,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1339,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+169,81622da8-9f36-4ea3-b223-d831d8c10f87,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1339,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+170,a144e4e4-2877-4340-a2bf-524adbde8bc8,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1886,FEMALE,53,C71.0,Central nervous system,Low-grade gliomas
+171,a144e4e4-2877-4340-a2bf-524adbde8bc8,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1886,FEMALE,53,C71.0,Central nervous system,Low-grade gliomas
+172,a144e4e4-2877-4340-a2bf-524adbde8bc8,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,1886,FEMALE,53,C71.0,Central nervous system,Low-grade gliomas
+173,a144e4e4-2877-4340-a2bf-524adbde8bc8,Irintotecan,Chemotherapy,Dead,WITH TUMOR,,,1886,FEMALE,53,C71.0,Central nervous system,Low-grade gliomas
+174,a144e4e4-2877-4340-a2bf-524adbde8bc8,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1886,FEMALE,53,C71.0,Central nervous system,Low-grade gliomas
+175,84ae73e4-3b39-4444-9bfb-3fc6057eab32,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,788,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+176,84ae73e4-3b39-4444-9bfb-3fc6057eab32,Temozlomide,Chemotherapy,Dead,WITH TUMOR,,,788,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+177,84ae73e4-3b39-4444-9bfb-3fc6057eab32,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,,788,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+178,84ae73e4-3b39-4444-9bfb-3fc6057eab32,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,788,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+179,84ae73e4-3b39-4444-9bfb-3fc6057eab32,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,788,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+180,5a769292-c3ce-4e18-b821-2bfe0e24978c,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,,,,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+181,5a769292-c3ce-4e18-b821-2bfe0e24978c,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+182,5a769292-c3ce-4e18-b821-2bfe0e24978c,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+183,d61710c1-8ac3-44e3-b567-66288a6ab731,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,709,MALE,43,C71.0,Central nervous system,Low-grade gliomas
+184,d61710c1-8ac3-44e3-b567-66288a6ab731,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,,709,MALE,43,C71.0,Central nervous system,Low-grade gliomas
+185,d61710c1-8ac3-44e3-b567-66288a6ab731,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,709,MALE,43,C71.0,Central nervous system,Low-grade gliomas
+186,d61710c1-8ac3-44e3-b567-66288a6ab731,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,709,MALE,43,C71.0,Central nervous system,Low-grade gliomas
+187,c35f36b1-ba3d-4eea-bf5a-c95480202176,temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,67,C71.0,Central nervous system,Low-grade gliomas
+188,c35f36b1-ba3d-4eea-bf5a-c95480202176,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,67,C71.0,Central nervous system,Low-grade gliomas
+189,c35f36b1-ba3d-4eea-bf5a-c95480202176,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,67,C71.0,Central nervous system,Low-grade gliomas
+190,ca427acb-034e-42e2-961a-b9d5dc30b741,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+191,b8df1577-2a75-4eb7-ab27-f2dd76160730,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,155,FEMALE,57,C71.0,Central nervous system,Low-grade gliomas
+192,b9a3b647-61b3-4d98-90ca-e307ab50984a,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,Stable Disease,722,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+193,b9a3b647-61b3-4d98-90ca-e307ab50984a,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,Clinical Progressive Disease,722,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+194,b9a3b647-61b3-4d98-90ca-e307ab50984a,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,Stable Disease,722,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+195,b9a3b647-61b3-4d98-90ca-e307ab50984a,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,Clinical Progressive Disease,722,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+196,6fab9c30-354b-4f99-9b60-6823c12b9b0a,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,61,C71.0,Central nervous system,Low-grade gliomas
+197,6fab9c30-354b-4f99-9b60-6823c12b9b0a,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,61,C71.0,Central nervous system,Low-grade gliomas
+198,c81d4681-c02f-4b33-abe0-b6ad7d61194d,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,29,C71.0,Central nervous system,Low-grade gliomas
+199,c81d4681-c02f-4b33-abe0-b6ad7d61194d,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,29,C71.0,Central nervous system,Low-grade gliomas
+200,c81d4681-c02f-4b33-abe0-b6ad7d61194d,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,29,C71.0,Central nervous system,Low-grade gliomas
+201,f97a9afe-e54a-4ef0-b458-0c77f938552e,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,51,C71.0,Central nervous system,Low-grade gliomas
+202,11dffe71-b516-41e8-9987-e0ff5d2356d1,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+203,11dffe71-b516-41e8-9987-e0ff5d2356d1,temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,60,C71.0,Central nervous system,Low-grade gliomas
+204,e488f613-f155-4e11-87d4-8c789ea81691,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,FEMALE,29,C71.0,Central nervous system,Low-grade gliomas
+205,e488f613-f155-4e11-87d4-8c789ea81691,Lomustine,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,29,C71.0,Central nervous system,Low-grade gliomas
+206,e488f613-f155-4e11-87d4-8c789ea81691,Procarbazine,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,29,C71.0,Central nervous system,Low-grade gliomas
+207,fc8828ae-484d-4fc8-a168-f8bc58ad65b9,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,55,C71.0,Central nervous system,Low-grade gliomas
+208,fc8828ae-484d-4fc8-a168-f8bc58ad65b9,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,55,C71.0,Central nervous system,Low-grade gliomas
+209,669605F6-39A1-4F8C-81DC-39430FF5F892,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+210,669605F6-39A1-4F8C-81DC-39430FF5F892,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,33,C71.0,Central nervous system,Low-grade gliomas
+211,4BD8EBC1-6F6E-44A2-8544-106901A7BAE5,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,51,C71.0,Central nervous system,Low-grade gliomas
+212,DD163547-43AD-4FE4-873E-83C4C6BE4465,Temodar,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,MALE,42,C71.0,Central nervous system,Low-grade gliomas
+213,699D3BA1-94C8-409F-90C3-E7FE2F1CF825,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,70,C71.0,Central nervous system,Low-grade gliomas
+214,1C095C4A-DF97-402E-902C-FC83BCF8EF88,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,62,C71.0,Central nervous system,Low-grade gliomas
+215,0167CF11-74BE-4701-AB9A-4E057D4BB545,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,46,C71.0,Central nervous system,Low-grade gliomas
+216,0167CF11-74BE-4701-AB9A-4E057D4BB545,Temozolomide,,Alive,WITH TUMOR,,Stable Disease,,FEMALE,46,C71.0,Central nervous system,Low-grade gliomas
+217,0167CF11-74BE-4701-AB9A-4E057D4BB545,Mibefradil,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,FEMALE,46,C71.0,Central nervous system,Low-grade gliomas
+218,0167CF11-74BE-4701-AB9A-4E057D4BB545,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,FEMALE,46,C71.0,Central nervous system,Low-grade gliomas
+219,0167CF11-74BE-4701-AB9A-4E057D4BB545,Lomustine,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,FEMALE,46,C71.0,Central nervous system,Low-grade gliomas
+220,0167CF11-74BE-4701-AB9A-4E057D4BB545,Procarbazine,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,FEMALE,46,C71.0,Central nervous system,Low-grade gliomas
+221,0167CF11-74BE-4701-AB9A-4E057D4BB545,bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,FEMALE,46,C71.0,Central nervous system,Low-grade gliomas
+222,3BAA0015-885C-487A-9076-236F404FEB3E,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+223,3BAA0015-885C-487A-9076-236F404FEB3E,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+224,3BAA0015-885C-487A-9076-236F404FEB3E,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+225,A56C2083-33D5-4C98-B85F-3B68A3D80ADD,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+226,A56C2083-33D5-4C98-B85F-3B68A3D80ADD,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+227,A56C2083-33D5-4C98-B85F-3B68A3D80ADD,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+228,9CD3B3C6-2268-4E43-964B-B7A4DAF6FC6F,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,74,C71.0,Central nervous system,Low-grade gliomas
+229,30BF5895-0671-4FB1-A96D-857847FCF7B0,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,347,MALE,87,C71.0,Central nervous system,Low-grade gliomas
+230,395798C5-3136-4A30-8557-A67A3ABDECAF,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,814,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+231,395798C5-3136-4A30-8557-A67A3ABDECAF,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,814,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+232,395798C5-3136-4A30-8557-A67A3ABDECAF,Procarbazine,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,814,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+233,395798C5-3136-4A30-8557-A67A3ABDECAF,Cilengtide,Targeted Molecular therapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,814,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+234,C56FA247-AD97-4DCE-A2D3-9BDFC5DC7B1B,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+235,C56FA247-AD97-4DCE-A2D3-9BDFC5DC7B1B,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+236,823F571A-3CFD-465D-95FD-187A398CCF6F,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,648,MALE,51,C71.0,Central nervous system,Low-grade gliomas
+237,04E6E843-7F31-43DA-B111-280CE2BD1949,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+238,04E6E843-7F31-43DA-B111-280CE2BD1949,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+239,04E6E843-7F31-43DA-B111-280CE2BD1949,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Clinical Progressive Disease,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+240,04E6E843-7F31-43DA-B111-280CE2BD1949,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Clinical Progressive Disease,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+241,04E6E843-7F31-43DA-B111-280CE2BD1949,Lomustine (CCNU),Chemotherapy,Alive,WITH TUMOR,Stable Disease,Clinical Progressive Disease,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+242,04E6E843-7F31-43DA-B111-280CE2BD1949,bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Stable Disease,Clinical Progressive Disease,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+243,EF12BFB7-4147-407F-84E9-586DBB10D583,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+244,EF12BFB7-4147-407F-84E9-586DBB10D583,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+245,D3D8987D-0A54-45F8-B9C9-17EC89FA864E,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Progressive Disease,Clinical Progressive Disease,,MALE,56,C71.0,Central nervous system,Low-grade gliomas
+246,D3D8987D-0A54-45F8-B9C9-17EC89FA864E,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Progressive Disease,Stable Disease,,MALE,56,C71.0,Central nervous system,Low-grade gliomas
+247,D3D8987D-0A54-45F8-B9C9-17EC89FA864E,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Progressive Disease,Stable Disease,,MALE,56,C71.0,Central nervous system,Low-grade gliomas
+248,E349D8AA-BB82-4CE8-B14C-61216289F25B,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,228,MALE,52,C71.0,Central nervous system,Low-grade gliomas
+249,E349D8AA-BB82-4CE8-B14C-61216289F25B,Temozolomide,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,228,MALE,52,C71.0,Central nervous system,Low-grade gliomas
+250,62EC50E7-636E-46C6-AFED-66BF217B59C1,Temozolomide,Chemotherapy,Dead,,,,1351,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+251,0EFAF8F9-177C-4FFB-B03F-F0316ADF5DC1,SU101,,Dead,WITH TUMOR,Progressive Disease,Stable Disease,1183,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+252,0EFAF8F9-177C-4FFB-B03F-F0316ADF5DC1,ONYX-015,,Dead,WITH TUMOR,Progressive Disease,Stable Disease,1183,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+253,0EFAF8F9-177C-4FFB-B03F-F0316ADF5DC1,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1183,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+254,0EFAF8F9-177C-4FFB-B03F-F0316ADF5DC1,cis-retinoic acid,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1183,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+255,0EFAF8F9-177C-4FFB-B03F-F0316ADF5DC1,Carmustine (BCNU),Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1183,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+256,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Procarbazine,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+257,837b51d0-e6b7-431b-a5f3-7615bdf12b67,CPT-11,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+258,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Tamoxifen,Hormone Therapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+259,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Vincristine,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+260,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Tamoxifen,Hormone Therapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+261,837b51d0-e6b7-431b-a5f3-7615bdf12b67,CCNU,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+262,837b51d0-e6b7-431b-a5f3-7615bdf12b67,CCNU,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+263,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+264,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Procarbazine,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+265,837b51d0-e6b7-431b-a5f3-7615bdf12b67,CCNU,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+266,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Celebrex,,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+267,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+268,837b51d0-e6b7-431b-a5f3-7615bdf12b67,Vincristine,Chemotherapy,Dead,WITH TUMOR,,,1525,MALE,41,C71.9,Central nervous system,Low-grade gliomas
+269,44a5c3b4-62a7-407b-b492-7069e1a43a26,Tamoxifen,Hormone Therapy,Dead,WITH TUMOR,,,2052,MALE,38,C71.9,Central nervous system,Low-grade gliomas
+270,44a5c3b4-62a7-407b-b492-7069e1a43a26,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2052,MALE,38,C71.9,Central nervous system,Low-grade gliomas
+271,44a5c3b4-62a7-407b-b492-7069e1a43a26,CCNU,Chemotherapy,Dead,WITH TUMOR,,,2052,MALE,38,C71.9,Central nervous system,Low-grade gliomas
+272,691d5202-90cc-4e08-83a3-0620a89d3a4b,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+273,691d5202-90cc-4e08-83a3-0620a89d3a4b,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+274,691d5202-90cc-4e08-83a3-0620a89d3a4b,CCNU,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+275,691d5202-90cc-4e08-83a3-0620a89d3a4b,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+276,691d5202-90cc-4e08-83a3-0620a89d3a4b,CPT-11,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+277,691d5202-90cc-4e08-83a3-0620a89d3a4b,CCNU,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+278,691d5202-90cc-4e08-83a3-0620a89d3a4b,VP-16,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+279,691d5202-90cc-4e08-83a3-0620a89d3a4b,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,1251,MALE,42,C71.9,Central nervous system,Low-grade gliomas
+280,a0bc5147-d9b4-41fd-8df3-a241d23722e8,CCNU,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+281,a0bc5147-d9b4-41fd-8df3-a241d23722e8,VP-16,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+282,a0bc5147-d9b4-41fd-8df3-a241d23722e8,Topotecan,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+283,a0bc5147-d9b4-41fd-8df3-a241d23722e8,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+284,a0bc5147-d9b4-41fd-8df3-a241d23722e8,Hydroyurea,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+285,a0bc5147-d9b4-41fd-8df3-a241d23722e8,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+286,a0bc5147-d9b4-41fd-8df3-a241d23722e8,Gleevec,Targeted Molecular therapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+287,a0bc5147-d9b4-41fd-8df3-a241d23722e8,CPT-11,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+288,a0bc5147-d9b4-41fd-8df3-a241d23722e8,Cytoxan,Chemotherapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+289,a0bc5147-d9b4-41fd-8df3-a241d23722e8,Avastin,Targeted Molecular therapy,Dead,WITH TUMOR,,,2433,MALE,34,C71.9,Central nervous system,Low-grade gliomas
+290,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,Temodar,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+291,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,Temodar,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+292,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,Temodar,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+293,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,CCNU,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+294,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,CCNu,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+295,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,CCNU,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+296,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,Temodar,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+297,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,Temodar,Chemotherapy,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+298,a6ee311c-0a7b-4f47-86f1-f2164b128f9c,Celebrex,,Dead,WITH TUMOR,,,1762,FEMALE,62,C71.9,Central nervous system,Low-grade gliomas
+299,0061e9ef-df6a-414e-af64-c88f8192e2d3,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+300,0061e9ef-df6a-414e-af64-c88f8192e2d3,Celebrex,,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+301,0061e9ef-df6a-414e-af64-c88f8192e2d3,MAGI131-81c6,,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+302,0061e9ef-df6a-414e-af64-c88f8192e2d3,CCNU,Chemotherapy,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+303,0061e9ef-df6a-414e-af64-c88f8192e2d3,VP-16,Chemotherapy,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+304,0061e9ef-df6a-414e-af64-c88f8192e2d3,Karerltecin,Chemotherapy,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+305,0061e9ef-df6a-414e-af64-c88f8192e2d3,Cloretazine,Chemotherapy,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+306,0061e9ef-df6a-414e-af64-c88f8192e2d3,Tamoxifen,Hormone Therapy,Dead,WITH TUMOR,,,4084,MALE,31,C71.9,Central nervous system,Low-grade gliomas
+307,400b2fa3-baf7-4baa-99b4-88b9f25b5049,CCNU,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+308,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Gliadel Wafers,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+309,400b2fa3-baf7-4baa-99b4-88b9f25b5049,CPT-11,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+310,400b2fa3-baf7-4baa-99b4-88b9f25b5049,CPT-11,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+311,400b2fa3-baf7-4baa-99b4-88b9f25b5049,CCNU,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+312,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Procarbazine,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+313,400b2fa3-baf7-4baa-99b4-88b9f25b5049,CCNU,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+314,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Temazolomide,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+315,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Cytoxan,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+316,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Temozolomide,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+317,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Carboplatin,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+318,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Celebrex,,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+319,400b2fa3-baf7-4baa-99b4-88b9f25b5049,VP-16,Chemotherapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+320,400b2fa3-baf7-4baa-99b4-88b9f25b5049,Tamoxiten,Hormone Therapy,Dead,WITH TUMOR,,,2379,FEMALE,42,C71.9,Central nervous system,Low-grade gliomas
+321,84569c1a-6baa-4380-ae3c-707df1be4618,Temodar,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+322,84569c1a-6baa-4380-ae3c-707df1be4618,Celebrex,,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+323,84569c1a-6baa-4380-ae3c-707df1be4618,Carboplatin,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+324,84569c1a-6baa-4380-ae3c-707df1be4618,Carboplatin,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+325,84569c1a-6baa-4380-ae3c-707df1be4618,CCNU,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+326,84569c1a-6baa-4380-ae3c-707df1be4618,Temodar,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+327,84569c1a-6baa-4380-ae3c-707df1be4618,CCNU,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+328,84569c1a-6baa-4380-ae3c-707df1be4618,VP-16,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+329,84569c1a-6baa-4380-ae3c-707df1be4618,VP-16,Chemotherapy,Dead,WITH TUMOR,,,2907,FEMALE,48,C71.9,Central nervous system,Low-grade gliomas
+330,5ea230a6-77aa-4aa5-867c-09651d481d8b,Gliadel Wafer,Chemotherapy,Dead,,,,3978,FEMALE,38,C71.9,Central nervous system,Low-grade gliomas
+331,457EC7F6-8612-4641-AAEF-8A7F2C44C30C,CCNU,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,435,MALE,57,C71.0,Central nervous system,Low-grade gliomas
+332,457EC7F6-8612-4641-AAEF-8A7F2C44C30C,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,,435,MALE,57,C71.0,Central nervous system,Low-grade gliomas
+333,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,CCNU,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+334,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,CCNU,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+335,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,Gliadel wafers,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+336,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,Temodar,,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+337,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,Celebrex,Ancillary,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+338,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+339,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,Benzylguanine,Targeted Molecular therapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+340,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,Karenitecin,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+341,F842F756-CE78-4C99-BCF8-3BCE18A4D9EF,VP-16,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,886,FEMALE,32,C71.0,Central nervous system,Low-grade gliomas
+342,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+343,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,CCNU,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+344,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+345,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+346,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+347,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,Erlotinib,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+348,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,Avastin,,Dead,WITH TUMOR,Stable Disease,Stable Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+349,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,Avastin,,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+350,9F469EDB-6B12-4EAB-BD6F-9C10034D4CB7,VP-16,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,2835,FEMALE,47,C71.0,Central nervous system,Low-grade gliomas
+351,BC6FBB3C-870D-40B5-983B-7C88705E020D,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,592,MALE,55,C71.0,Central nervous system,Low-grade gliomas
+352,BC6FBB3C-870D-40B5-983B-7C88705E020D,CPT-11,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,592,MALE,55,C71.0,Central nervous system,Low-grade gliomas
+353,BC6FBB3C-870D-40B5-983B-7C88705E020D,Avastin,Immunotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,592,MALE,55,C71.0,Central nervous system,Low-grade gliomas
+354,BC6FBB3C-870D-40B5-983B-7C88705E020D,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,592,MALE,55,C71.0,Central nervous system,Low-grade gliomas
+355,BC6FBB3C-870D-40B5-983B-7C88705E020D,MR1-1,Immunotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,592,MALE,55,C71.0,Central nervous system,Low-grade gliomas
+356,BB4A30D5-4EBA-45DB-B05A-BD843044D508,Temodar,Chemotherapy,Dead,,Stable Disease,Stable Disease,378,MALE,52,C71.0,Central nervous system,Low-grade gliomas
+357,BB4A30D5-4EBA-45DB-B05A-BD843044D508,Temodar,Chemotherapy,Dead,,Stable Disease,,378,MALE,52,C71.0,Central nervous system,Low-grade gliomas
+358,96D9249E-501C-49E0-9559-01DA978A9CA6,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,492,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+359,96D9249E-501C-49E0-9559-01DA978A9CA6,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,492,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+360,96D9249E-501C-49E0-9559-01DA978A9CA6,Carboplatin,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,492,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+361,96D9249E-501C-49E0-9559-01DA978A9CA6,CPT-11,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,492,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+362,96D9249E-501C-49E0-9559-01DA978A9CA6,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,492,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+363,96D9249E-501C-49E0-9559-01DA978A9CA6,VP-16,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,492,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+364,4250AC3C-C8B0-46CE-B9C8-7963BC386041,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+365,4250AC3C-C8B0-46CE-B9C8-7963BC386041,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+366,4250AC3C-C8B0-46CE-B9C8-7963BC386041,CPT-11,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+367,4250AC3C-C8B0-46CE-B9C8-7963BC386041,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+368,4250AC3C-C8B0-46CE-B9C8-7963BC386041,VP-16,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+369,4250AC3C-C8B0-46CE-B9C8-7963BC386041,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+370,4250AC3C-C8B0-46CE-B9C8-7963BC386041,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+371,4250AC3C-C8B0-46CE-B9C8-7963BC386041,Carboplatin,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,648,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+372,BCC17E9A-6FE3-44FF-963C-D2D850A431F1,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,727,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+373,BCC17E9A-6FE3-44FF-963C-D2D850A431F1,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,727,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+374,BCC17E9A-6FE3-44FF-963C-D2D850A431F1,Avastin,Immunotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,727,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+375,BCC17E9A-6FE3-44FF-963C-D2D850A431F1,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,727,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+376,BCC17E9A-6FE3-44FF-963C-D2D850A431F1,Avastin,Immunotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,727,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+377,BCC17E9A-6FE3-44FF-963C-D2D850A431F1,CCNU,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,727,FEMALE,63,C71.0,Central nervous system,Low-grade gliomas
+378,992452EE-8D9F-406B-9708-7BCB60062743,I131-81C6,Immunotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,2282,MALE,45,C71.0,Central nervous system,Low-grade gliomas
+379,75DBC8FB-4DB8-4764-824C-ECCF3A223884,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,1578,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+380,75DBC8FB-4DB8-4764-824C-ECCF3A223884,CCNU,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,1578,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+381,75DBC8FB-4DB8-4764-824C-ECCF3A223884,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,1578,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+382,5E2539E0-2088-43DF-AD2A-F854D8BB6D30,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,466,MALE,71,C71.0,Central nervous system,Low-grade gliomas
+383,5E2539E0-2088-43DF-AD2A-F854D8BB6D30,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,466,MALE,71,C71.0,Central nervous system,Low-grade gliomas
+384,FC3948FB-DF27-4149-BBFB-04443DFECC19,I 131 81C6,Immunotherapy,Dead,WITH TUMOR,,,23,MALE,42,C71.0,Central nervous system,Low-grade gliomas
+385,23C335F6-5749-4443-8AE8-61CCCBB137CB,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+386,23C335F6-5749-4443-8AE8-61CCCBB137CB,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+387,23C335F6-5749-4443-8AE8-61CCCBB137CB,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+388,23C335F6-5749-4443-8AE8-61CCCBB137CB,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+389,23C335F6-5749-4443-8AE8-61CCCBB137CB,Gleevec,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+390,23C335F6-5749-4443-8AE8-61CCCBB137CB,Gleevec,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+391,23C335F6-5749-4443-8AE8-61CCCBB137CB,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+392,23C335F6-5749-4443-8AE8-61CCCBB137CB,Gleevec,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+393,23C335F6-5749-4443-8AE8-61CCCBB137CB,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+394,23C335F6-5749-4443-8AE8-61CCCBB137CB,CPT-11,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,987,FEMALE,26,C71.0,Central nervous system,Low-grade gliomas
+395,5EEF573E-6A44-4DC7-8AA7-B136863CE910,CCNU,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1120,MALE,28,C71.0,Central nervous system,Low-grade gliomas
+396,5EEF573E-6A44-4DC7-8AA7-B136863CE910,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,1120,MALE,28,C71.0,Central nervous system,Low-grade gliomas
+397,5EEF573E-6A44-4DC7-8AA7-B136863CE910,CPT-11,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,1120,MALE,28,C71.0,Central nervous system,Low-grade gliomas
+398,5EEF573E-6A44-4DC7-8AA7-B136863CE910,VP-16,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1120,MALE,28,C71.0,Central nervous system,Low-grade gliomas
+399,5EEF573E-6A44-4DC7-8AA7-B136863CE910,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1120,MALE,28,C71.0,Central nervous system,Low-grade gliomas
+400,722C172F-46E6-47A1-82E5-3207278DF89B,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,4445,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+401,722C172F-46E6-47A1-82E5-3207278DF89B,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,4445,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+402,722C172F-46E6-47A1-82E5-3207278DF89B,CCNU,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Stable Disease,4445,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+403,722C172F-46E6-47A1-82E5-3207278DF89B,Temodar,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,4445,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+404,722C172F-46E6-47A1-82E5-3207278DF89B,VP-16,Chemotherapy,Dead,WITH TUMOR,Stable Disease,Clinical Progressive Disease,4445,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+405,722C172F-46E6-47A1-82E5-3207278DF89B,Avastin,Immunotherapy,Dead,WITH TUMOR,Stable Disease,,4445,FEMALE,27,C71.0,Central nervous system,Low-grade gliomas
+406,97FFBE14-9070-4A5A-8760-225A88834B40,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,398,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+407,97FFBE14-9070-4A5A-8760-225A88834B40,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,398,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+408,97FFBE14-9070-4A5A-8760-225A88834B40,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,398,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+409,97FFBE14-9070-4A5A-8760-225A88834B40,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,398,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+410,97FFBE14-9070-4A5A-8760-225A88834B40,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,398,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+411,97FFBE14-9070-4A5A-8760-225A88834B40,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,398,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+412,3AC41CC6-5DFB-40A1-BD13-5DC7CA2BB6F3,I131-81C6,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,2235,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+413,3AC41CC6-5DFB-40A1-BD13-5DC7CA2BB6F3,CCNU,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,2235,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+414,3AC41CC6-5DFB-40A1-BD13-5DC7CA2BB6F3,Procarbazine,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,2235,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+415,3AC41CC6-5DFB-40A1-BD13-5DC7CA2BB6F3,Vincristine,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,2235,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+416,3AC41CC6-5DFB-40A1-BD13-5DC7CA2BB6F3,CPT-11,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,2235,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+417,975E17C2-B93C-4D45-8A85-786F365E4A93,Gliadel,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+418,975E17C2-B93C-4D45-8A85-786F365E4A93,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+419,975E17C2-B93C-4D45-8A85-786F365E4A93,CCNU,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+420,975E17C2-B93C-4D45-8A85-786F365E4A93,Thalidomide,,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+421,975E17C2-B93C-4D45-8A85-786F365E4A93,Cyclophosphamide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+422,975E17C2-B93C-4D45-8A85-786F365E4A93,Karenitecin,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+423,975E17C2-B93C-4D45-8A85-786F365E4A93,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+424,975E17C2-B93C-4D45-8A85-786F365E4A93,Tamoxifen,Hormone Therapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+425,975E17C2-B93C-4D45-8A85-786F365E4A93,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+426,975E17C2-B93C-4D45-8A85-786F365E4A93,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+427,975E17C2-B93C-4D45-8A85-786F365E4A93,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+428,975E17C2-B93C-4D45-8A85-786F365E4A93,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+429,975E17C2-B93C-4D45-8A85-786F365E4A93,Carboplatin,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,4412,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+430,8B10F00F-FDE6-423D-BC36-027931359A5A,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Stable Disease,984,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+431,8B10F00F-FDE6-423D-BC36-027931359A5A,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,984,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+432,8B10F00F-FDE6-423D-BC36-027931359A5A,Avastin,Immunotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,984,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+433,e09f93e1-1649-48fa-9e2e-d13ac6d50b97,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+434,e09f93e1-1649-48fa-9e2e-d13ac6d50b97,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+435,68f550ca-3a33-45e4-b1c9-14f99e543263,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,23,C71.0,Central nervous system,Low-grade gliomas
+436,68f550ca-3a33-45e4-b1c9-14f99e543263,Temodar,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,MALE,23,C71.0,Central nervous system,Low-grade gliomas
+437,68f550ca-3a33-45e4-b1c9-14f99e543263,Avastin,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,MALE,23,C71.0,Central nervous system,Low-grade gliomas
+438,68f550ca-3a33-45e4-b1c9-14f99e543263,BCNU,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,MALE,23,C71.0,Central nervous system,Low-grade gliomas
+439,2cfc07f3-a31c-41a2-a9e3-b708d2421a78,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,39,C71.0,Central nervous system,Low-grade gliomas
+440,dadd7428-9e4d-4652-9469-ab521b88d529,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+441,dadd7428-9e4d-4652-9469-ab521b88d529,Avastin,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+442,8d07b1e8-5d1d-4a43-b616-d29dd58ce5fe,Temodar,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+443,e4d9b696-3311-44e7-9191-fde56c080a00,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,23,C71.0,Central nervous system,Low-grade gliomas
+444,5f10cd91-1e03-4016-b35a-8629a1a8fcc9,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+445,b342e980-8383-4f1b-bf57-4098c37a536c,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,48,C71.0,Central nervous system,Low-grade gliomas
+446,1f54d21e-752f-496d-8453-4b9b8738cbce,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+447,1f54d21e-752f-496d-8453-4b9b8738cbce,Temodar,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+448,1f54d21e-752f-496d-8453-4b9b8738cbce,Temodar,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,FEMALE,31,C71.0,Central nervous system,Low-grade gliomas
+449,1159c88c-39d0-4c03-9c66-36af5340a67a,Temodar,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,23,C71.0,Central nervous system,Low-grade gliomas
+450,fb3884df-3680-4c5b-8092-981007aeba03,Temodar,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,MALE,37,C71.0,Central nervous system,Low-grade gliomas
+451,fb3884df-3680-4c5b-8092-981007aeba03,Temodar,Chemotherapy,Alive,TUMOR FREE,,Complete Response,,MALE,37,C71.0,Central nervous system,Low-grade gliomas
+452,5469c0e8-0c58-4870-b897-8fa0704599a7,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+453,5469c0e8-0c58-4870-b897-8fa0704599a7,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+454,029b33b1-7ea9-4b77-a615-7eb0e3ebd5e7,Temodar,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+455,029b33b1-7ea9-4b77-a615-7eb0e3ebd5e7,Temodar,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+456,DCE168B1-D2A9-4409-8437-AB382F6D7D31,Temodar,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,MALE,63,C71.1,Central nervous system,Low-grade gliomas
+457,DCE168B1-D2A9-4409-8437-AB382F6D7D31,Temodar,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,MALE,63,C71.1,Central nervous system,Low-grade gliomas
+458,DCE168B1-D2A9-4409-8437-AB382F6D7D31,Avastin,,Alive,TUMOR FREE,,Clinical Progressive Disease,,MALE,63,C71.1,Central nervous system,Low-grade gliomas
+459,AE4F0714-3B74-46C0-9C1B-F028C7CF2E62,Temodar,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Stable Disease,,FEMALE,52,C71.0,Central nervous system,Low-grade gliomas
+460,AE4F0714-3B74-46C0-9C1B-F028C7CF2E62,Temodar,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,,,FEMALE,52,C71.0,Central nervous system,Low-grade gliomas
+461,C6CEB220-282E-4EEF-8D36-4CE0A625CF7E,Temodar,Chemotherapy,Alive,WITH TUMOR,Complete Remission/Response,Stable Disease,,FEMALE,20,C71.0,Central nervous system,Low-grade gliomas
+462,98E82E98-341A-4BCA-92C0-23C65C1BF94F,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,53,C71.0,Central nervous system,Low-grade gliomas
+463,5B199E7E-CC23-4065-88AD-FDFE3D0683D6,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,50,C71.0,Central nervous system,Low-grade gliomas
+464,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,Temodar,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+465,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,Temodar,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+466,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,Avastin,Immunotherapy,Alive,WITH TUMOR,Progressive Disease,,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+467,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,CCNU,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+468,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,Hydroxyurea,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+469,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,Imatinib,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+470,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,Carboplatin 5 AUC,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+471,1F5B6B07-45F5-4DA4-932A-DF9665F6C538,Etoposide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+472,872A12B4-8CBD-49D2-AC98-D846587F5794,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,,,FEMALE,37,C71.0,Central nervous system,Low-grade gliomas
+473,7E17E6FD-ED83-471F-91E3-5934885C8E87,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,FEMALE,61,C71.0,Central nervous system,Low-grade gliomas
+474,5b9d7565-a933-449d-8ffa-ec5f82db2e77,Temozolomide,Chemotherapy,Alive,,,Complete Response,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+475,e6c55ba6-4c8a-4ea4-8dde-74d01915db02,temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+476,b9e2f4d1-866c-4c62-a9c8-8de7eb364a6e,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+477,b9e2f4d1-866c-4c62-a9c8-8de7eb364a6e,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,30,C71.0,Central nervous system,Low-grade gliomas
+478,fee2114e-f723-4374-91f8-f1dcc6b3eaee,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,37,C71.9,Central nervous system,Low-grade gliomas
+479,41456932-436e-4cdb-bfe8-97d089656786,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,67,C71.9,Central nervous system,Low-grade gliomas
+480,41456932-436e-4cdb-bfe8-97d089656786,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,67,C71.9,Central nervous system,Low-grade gliomas
+481,41456932-436e-4cdb-bfe8-97d089656786,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,67,C71.9,Central nervous system,Low-grade gliomas
+482,27d0d3cb-16c0-4ba8-9662-95917f665004,temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,26,C71.0,Central nervous system,Low-grade gliomas
+483,27d0d3cb-16c0-4ba8-9662-95917f665004,temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,26,C71.0,Central nervous system,Low-grade gliomas
+484,38f4b9f3-6709-40ff-9a81-5fa2111b1ce6,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,MALE,62,C71.0,Central nervous system,Low-grade gliomas
+485,a96fabfa-e830-476a-b2a1-899689570bd9,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,44,C71.9,Central nervous system,Low-grade gliomas
+486,a96fabfa-e830-476a-b2a1-899689570bd9,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,44,C71.9,Central nervous system,Low-grade gliomas
+487,325138ab-2947-4131-b40e-971f024723cc,Avastin,Targeted Molecular therapy,Alive,WITH TUMOR,,,,MALE,33,C71.9,Central nervous system,Low-grade gliomas
+488,325138ab-2947-4131-b40e-971f024723cc,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,33,C71.9,Central nervous system,Low-grade gliomas
+489,325138ab-2947-4131-b40e-971f024723cc,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,33,C71.9,Central nervous system,Low-grade gliomas
+490,448d3e3b-622c-4e79-bb1d-b5f2e92970e8,Temodar,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,18,C71.9,Central nervous system,Low-grade gliomas
+491,183dd089-e932-4be2-b252-0e8572e7da4e,Temodar,Chemotherapy,Alive,TUMOR FREE,,Complete Response,,MALE,14,C71.0,Central nervous system,Low-grade gliomas
+492,e7fdf164-a85d-4ff5-9676-d2215ca35403,Temodar,Chemotherapy,Alive,,,,,FEMALE,30,C71.9,Central nervous system,Low-grade gliomas
+493,e7fdf164-a85d-4ff5-9676-d2215ca35403,Temodar,Chemotherapy,Alive,,,,,FEMALE,30,C71.9,Central nervous system,Low-grade gliomas
+494,e7fdf164-a85d-4ff5-9676-d2215ca35403,Temodar,Chemotherapy,Alive,,,,,FEMALE,30,C71.9,Central nervous system,Low-grade gliomas
+495,019c5de9-74fd-48b7-95a3-227532e16c5a,Temodar,Chemotherapy,Alive,TUMOR FREE,,Partial Response,,MALE,50,C71.0,Central nervous system,Low-grade gliomas
+496,ffcec8e5-9fd3-4b42-a7cb-74761f713cf4,temodar,Chemotherapy,Alive,,,,,FEMALE,30,C71.9,Central nervous system,Low-grade gliomas
+497,ffcec8e5-9fd3-4b42-a7cb-74761f713cf4,temodar,Chemotherapy,Alive,,,,,FEMALE,30,C71.9,Central nervous system,Low-grade gliomas
+498,ffcec8e5-9fd3-4b42-a7cb-74761f713cf4,temodar,Chemotherapy,Alive,,,,,FEMALE,30,C71.9,Central nervous system,Low-grade gliomas
+499,bfbc0d1e-2a0b-4c60-8a37-91e3ce4b79ee,temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,34,C71.0,Central nervous system,Low-grade gliomas
+500,bfbc0d1e-2a0b-4c60-8a37-91e3ce4b79ee,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,34,C71.0,Central nervous system,Low-grade gliomas
+501,0d61bdbd-24b1-4885-a099-9e42ca7eedcd,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,40,C71.9,Central nervous system,Low-grade gliomas
+502,0d61bdbd-24b1-4885-a099-9e42ca7eedcd,Irinotecan,Chemotherapy,Alive,TUMOR FREE,,,,MALE,40,C71.9,Central nervous system,Low-grade gliomas
+503,0d61bdbd-24b1-4885-a099-9e42ca7eedcd,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,40,C71.9,Central nervous system,Low-grade gliomas
+504,0d61bdbd-24b1-4885-a099-9e42ca7eedcd,Avastin,Chemotherapy,Alive,TUMOR FREE,,,,MALE,40,C71.9,Central nervous system,Low-grade gliomas
+505,00b18ad6-ff70-41fe-8f4d-0763ac8f28b9,temodar,Chemotherapy,Alive,,,,,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+506,00b18ad6-ff70-41fe-8f4d-0763ac8f28b9,temodar,Chemotherapy,Alive,,,,,MALE,53,C71.0,Central nervous system,Low-grade gliomas
+507,3d58ded1-b7cf-420c-ba59-5b424683f0df,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,29,C71.0,Central nervous system,Low-grade gliomas
+508,3d58ded1-b7cf-420c-ba59-5b424683f0df,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,29,C71.0,Central nervous system,Low-grade gliomas
+509,7740824e-905f-47a0-b235-54561ef58ba3,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,59,C71.0,Central nervous system,Low-grade gliomas
+510,7740824e-905f-47a0-b235-54561ef58ba3,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,59,C71.0,Central nervous system,Low-grade gliomas
+511,7740824e-905f-47a0-b235-54561ef58ba3,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,59,C71.0,Central nervous system,Low-grade gliomas
+512,d58b535a-6c95-43bb-ad88-0600e6447537,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+513,d58b535a-6c95-43bb-ad88-0600e6447537,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+514,491ea65b-86c8-4686-99cf-f09505e20183,Temodar,Chemotherapy,Alive,,,,,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+515,491ea65b-86c8-4686-99cf-f09505e20183,Temodar,Chemotherapy,Alive,,,,,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+516,5017c115-39b8-4c5c-8be6-2cb298d7c641,Temodar,Chemotherapy,Alive,,,,,FEMALE,29,C71.0,Central nervous system,Low-grade gliomas
+517,40343ebd-0d62-401e-83a4-6cdb57662ec0,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+518,40343ebd-0d62-401e-83a4-6cdb57662ec0,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+519,c2c16878-b615-496c-8fcb-d49c97e15551,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+520,775c04e6-a02d-44a4-86f7-496056edd249,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+521,775c04e6-a02d-44a4-86f7-496056edd249,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+522,775c04e6-a02d-44a4-86f7-496056edd249,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+523,c916b9a4-008e-4d79-a50c-f15c3549fcf6,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+524,c916b9a4-008e-4d79-a50c-f15c3549fcf6,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+525,86aa5790-9afd-4653-926a-625516df1f56,Temodar,Chemotherapy,Alive,,Stable Disease,Stable Disease,,FEMALE,44,C71.0,Central nervous system,Low-grade gliomas
+526,86aa5790-9afd-4653-926a-625516df1f56,Temodar,Chemotherapy,Alive,,Stable Disease,,,FEMALE,44,C71.0,Central nervous system,Low-grade gliomas
+527,58de25d5-8a32-4412-866b-acac2e321bfa,Temodar,Chemotherapy,Alive,,,Stable Disease,,MALE,55,C71.0,Central nervous system,Low-grade gliomas
+528,58de25d5-8a32-4412-866b-acac2e321bfa,temodar,Chemotherapy,Alive,,,Clinical Progressive Disease,,MALE,55,C71.0,Central nervous system,Low-grade gliomas
+529,e669a4b7-a494-490a-b78c-e664c59d0697,Temodar,Chemotherapy,Dead,WITH TUMOR,,Clinical Progressive Disease,1933,FEMALE,37,C71.0,Central nervous system,Low-grade gliomas
+530,e669a4b7-a494-490a-b78c-e664c59d0697,Avastin,Targeted Molecular therapy,Dead,WITH TUMOR,,Clinical Progressive Disease,1933,FEMALE,37,C71.0,Central nervous system,Low-grade gliomas
+531,9e621541-d603-4d2d-b86e-2834d3b9f9a5,temodar,Chemotherapy,Alive,TUMOR FREE,,Partial Response,,FEMALE,49,C71.0,Central nervous system,Low-grade gliomas
+532,9e621541-d603-4d2d-b86e-2834d3b9f9a5,temodar,Chemotherapy,Alive,TUMOR FREE,,Complete Response,,FEMALE,49,C71.0,Central nervous system,Low-grade gliomas
+533,0906ddde-02fa-417d-927b-1c400b189cac,Temodar,Chemotherapy,Alive,TUMOR FREE,,Complete Response,,MALE,36,C71.0,Central nervous system,Low-grade gliomas
+534,f625e522-226b-450f-af94-dd2f5adb605e,Temodar,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,47,C71.0,Central nervous system,Low-grade gliomas
+535,f625e522-226b-450f-af94-dd2f5adb605e,Avastin,Targeted Molecular therapy,Alive,WITH TUMOR,Progressive Disease,Complete Response,,MALE,47,C71.0,Central nervous system,Low-grade gliomas
+536,f625e522-226b-450f-af94-dd2f5adb605e,CeeNU,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,,,MALE,47,C71.0,Central nervous system,Low-grade gliomas
+537,274496D6-0A9B-45CA-876F-B91F7277963C,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+538,274496D6-0A9B-45CA-876F-B91F7277963C,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Partial Response,,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+539,7E41BABA-7EF6-4030-B595-D95CD96336B5,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,FEMALE,33,C71.0,Central nervous system,Low-grade gliomas
+540,5A2D3BFA-4BDD-417D-9796-E3699760114C,Temodar,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Partial Response,,FEMALE,65,C71.0,Central nervous system,Low-grade gliomas
+541,8655FA51-D784-4F8D-9BC8-F1DA7303D22F,Temodar,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,162,FEMALE,70,C71.0,Central nervous system,Low-grade gliomas
+542,A4E2E507-7DDF-43DF-B959-FE451971AF1E,Temodar,Chemotherapy,Alive,,,,,FEMALE,37,C71.0,Central nervous system,Low-grade gliomas
+543,C13BAC88-C85B-4EE3-A51C-FD503CD7E726,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,FEMALE,51,C71.0,Central nervous system,Low-grade gliomas
+544,EFFB5839-24A2-4B8C-8B6D-08CB66503D16,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,FEMALE,20,C71.0,Central nervous system,Low-grade gliomas
+545,CF2A1B98-5693-4C04-9167-F85E69A88A4A,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,MALE,22,C71.0,Central nervous system,Low-grade gliomas
+546,77396AE6-3838-47BF-AAAE-F9A0F401EC7F,Temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,MALE,66,C71.0,Central nervous system,Low-grade gliomas
+547,FDFF46A7-F92A-45CF-8756-6C73A406C923,Temodar,Chemotherapy,Alive,,Stable Disease,,,MALE,62,C71.0,Central nervous system,Low-grade gliomas
+548,A3BE4E6F-C845-4D64-8111-D63FDF8CC8F1,temodar,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,FEMALE,58,C71.0,Central nervous system,Low-grade gliomas
+549,55a67639-ed05-4143-af96-a377bc5489ee,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,37,C71.0,Central nervous system,Low-grade gliomas
+550,42251e02-b687-4bf1-a1b6-e3dd978542e4,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+551,42251e02-b687-4bf1-a1b6-e3dd978542e4,Lomustine,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+552,42251e02-b687-4bf1-a1b6-e3dd978542e4,Vincristine (sulfate),Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+553,42251e02-b687-4bf1-a1b6-e3dd978542e4,Procarbazine,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+554,42251e02-b687-4bf1-a1b6-e3dd978542e4,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Clinical Progressive Disease,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+555,42251e02-b687-4bf1-a1b6-e3dd978542e4,Carboplatin,Chemotherapy,Alive,WITH TUMOR,,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+556,42251e02-b687-4bf1-a1b6-e3dd978542e4,Bevacizumab,Chemotherapy,Alive,WITH TUMOR,,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+557,a85fdb41-24c1-420d-8905-ec297f018bd9,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+558,bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,34,C71.0,Central nervous system,Low-grade gliomas
+559,bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,FEMALE,34,C71.0,Central nervous system,Low-grade gliomas
+560,bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Partial Response,,FEMALE,34,C71.0,Central nervous system,Low-grade gliomas
+561,bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,Bevacizumab,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Partial Response,,FEMALE,34,C71.0,Central nervous system,Low-grade gliomas
+562,bc3b4816-df1d-44ed-a8c6-f32c8e011a1f,Lomustine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,FEMALE,34,C71.0,Central nervous system,Low-grade gliomas
+563,e3ed0c19-6acc-4be1-aae2-73fe73cc9f24,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,36,C71.0,Central nervous system,Low-grade gliomas
+564,e3ed0c19-6acc-4be1-aae2-73fe73cc9f24,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,,,MALE,36,C71.0,Central nervous system,Low-grade gliomas
+565,36cf458b-3c8e-48e7-92ab-aea1c698e417,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+566,6105c037-90f1-42d9-ac38-6e2252999a64,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+567,8996DC64-8C5E-4E07-8ED8-2EB11C03626B,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,68,C71.0,Central nervous system,Low-grade gliomas
+568,8996DC64-8C5E-4E07-8ED8-2EB11C03626B,Temozolomide,,Alive,WITH TUMOR,Progressive Disease,Stable Disease,,MALE,68,C71.0,Central nervous system,Low-grade gliomas
+569,8A94FF28-A74D-4FE2-B9C0-06C01F0A3FB6,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,64,C71.0,Central nervous system,Low-grade gliomas
+570,8A94FF28-A74D-4FE2-B9C0-06C01F0A3FB6,Bevacizumab,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,,,MALE,64,C71.0,Central nervous system,Low-grade gliomas
+571,0639B753-4099-4CA4-ADB9-763069A614EF,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,42,C71.0,Central nervous system,Low-grade gliomas
+572,0639B753-4099-4CA4-ADB9-763069A614EF,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,42,C71.0,Central nervous system,Low-grade gliomas
+573,a5f851c5-6130-4ea1-9f86-be59331a92f7,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,,,578,MALE,43,C71.0,Central nervous system,Low-grade gliomas
+574,a5f851c5-6130-4ea1-9f86-be59331a92f7,Irinotecan,Chemotherapy,Dead,WITH TUMOR,,,578,MALE,43,C71.0,Central nervous system,Low-grade gliomas
+575,a0b7c7c8-a6f2-41ba-9e61-9b7f8fbbbe1f,Temodar,Chemotherapy,Alive,TUMOR FREE,,,,MALE,62,C71.0,Central nervous system,Low-grade gliomas
+576,a0b7c7c8-a6f2-41ba-9e61-9b7f8fbbbe1f,Temodar,Chemotherapy,Alive,TUMOR FREE,,Complete Response,,MALE,62,C71.0,Central nervous system,Low-grade gliomas
+577,442DF188-B678-45BB-BD9D-7071ED8AAA5A,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,26,C71.0,Central nervous system,Low-grade gliomas
+578,77472095-030D-4679-921D-8E8E217956C5,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Progressive Disease,Clinical Progressive Disease,,FEMALE,45,C71.0,Central nervous system,Low-grade gliomas
+579,1F13065A-40F7-455D-B8EB-F9A128722EAC,Temozolomide,,Alive,WITH TUMOR,,Partial Response,,FEMALE,41,C71.0,Central nervous system,Low-grade gliomas
+580,7EB5D055-E1C8-4B93-9205-A49A6E79DFD4,Lomustine,Chemotherapy,Alive,WITH TUMOR,,Partial Response,,MALE,33,C71.9,Central nervous system,Low-grade gliomas
+581,7EB5D055-E1C8-4B93-9205-A49A6E79DFD4,Vincristine,Chemotherapy,Alive,WITH TUMOR,,Partial Response,,MALE,33,C71.9,Central nervous system,Low-grade gliomas
+582,7EB5D055-E1C8-4B93-9205-A49A6E79DFD4,Procarbazine,Chemotherapy,Alive,WITH TUMOR,,Partial Response,,MALE,33,C71.9,Central nervous system,Low-grade gliomas
+583,C85FA637-941A-4A9A-8029-F5B44F3DA430,Mustophoran,Chemotherapy,Alive,WITH TUMOR,,Partial Response,,FEMALE,36,C71.0,Central nervous system,Low-grade gliomas
+584,C85FA637-941A-4A9A-8029-F5B44F3DA430,Avastin,,Alive,WITH TUMOR,,Partial Response,,FEMALE,36,C71.0,Central nervous system,Low-grade gliomas
+585,C85FA637-941A-4A9A-8029-F5B44F3DA430,Themozolomide,,Alive,WITH TUMOR,,Partial Response,,FEMALE,36,C71.0,Central nervous system,Low-grade gliomas
+586,0557B788-5AED-4919-85EB-A503AD893D75,Lomustine,Chemotherapy,Alive,,,Partial Response,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+587,0557B788-5AED-4919-85EB-A503AD893D75,Vincristine,Chemotherapy,Alive,,,Partial Response,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+588,0557B788-5AED-4919-85EB-A503AD893D75,Procarbazine,Chemotherapy,Alive,,,Partial Response,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+589,141F0546-F6F2-408F-AC86-07CA4AADF3D0,Temozolomide,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,FEMALE,64,C71.0,Central nervous system,Low-grade gliomas
+590,D81B9957-8C82-4006-B111-449FA9FB95ED,Temozolomide,,Alive,TUMOR FREE,Complete Remission/Response,,,FEMALE,52,C71.0,Central nervous system,Low-grade gliomas
+591,505E9812-D13E-42D3-AEE2-55A85D6F4551,TEMOZOLOMIDE,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,38,C71.9,Central nervous system,Low-grade gliomas
+592,AD72E61E-51E3-4992-AC77-65E895935736,PROCARBAZINE,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,43,C71.0,Central nervous system,Low-grade gliomas
+593,AD72E61E-51E3-4992-AC77-65E895935736,LOMUSTINE,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,43,C71.0,Central nervous system,Low-grade gliomas
+594,AD72E61E-51E3-4992-AC77-65E895935736,VINCRISTINE,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,43,C71.0,Central nervous system,Low-grade gliomas
+595,451BAD4F-6D72-4526-9978-38E090FC479F,temozolomide,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,FEMALE,28,C71.0,Central nervous system,Low-grade gliomas
+596,451BAD4F-6D72-4526-9978-38E090FC479F,lomustine,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,FEMALE,28,C71.0,Central nervous system,Low-grade gliomas
+597,451BAD4F-6D72-4526-9978-38E090FC479F,vincristine,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,FEMALE,28,C71.0,Central nervous system,Low-grade gliomas
+598,451BAD4F-6D72-4526-9978-38E090FC479F,Procarbazine,Chemotherapy,Alive,TUMOR FREE,Stable Disease,Stable Disease,,FEMALE,28,C71.0,Central nervous system,Low-grade gliomas
+599,C2F9DFF7-751B-4704-8E6E-F4F800297030,VINCRISTINE,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+600,C2F9DFF7-751B-4704-8E6E-F4F800297030,LOMUSTINE,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+601,C2F9DFF7-751B-4704-8E6E-F4F800297030,procarbazine,Chemotherapy,Alive,TUMOR FREE,,Stable Disease,,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+602,6D17C327-435A-4CBA-9626-3B5B7B7375BB,TEMOZOLOMIDE,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,41,C71.0,Central nervous system,Low-grade gliomas
+603,6D17C327-435A-4CBA-9626-3B5B7B7375BB,fotemustine,Chemotherapy,Alive,WITH TUMOR,Stable Disease,,,MALE,41,C71.0,Central nervous system,Low-grade gliomas
+604,76CB16F9-37BE-450E-B60A-5F0D0F1EC2BC,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,FEMALE,52,C71.0,Central nervous system,Low-grade gliomas
+605,E1758D75-B2A0-4386-BD72-6B2421D4DA6B,Temozolomide,Chemotherapy,Alive,,,Stable Disease,,MALE,38,C71.0,Central nervous system,Low-grade gliomas
+606,976D067B-9D7F-4920-A04D-E831EDC6C2C2,temozolomide,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Clinical Progressive Disease,,MALE,47,C71.0,Central nervous system,Low-grade gliomas
+607,D209CFFC-FE21-4AE7-B610-E5668EA84A3B,temozolomide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,FEMALE,56,C71.0,Central nervous system,Low-grade gliomas
+608,62088274-A45B-4616-B086-B0DDD64895F0,temozolomide,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Clinical Progressive Disease,,MALE,48,C71.0,Central nervous system,Low-grade gliomas
+609,62088274-A45B-4616-B086-B0DDD64895F0,lomustine,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,MALE,48,C71.0,Central nervous system,Low-grade gliomas
+610,62088274-A45B-4616-B086-B0DDD64895F0,Procarbazine,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,MALE,48,C71.0,Central nervous system,Low-grade gliomas
+611,62088274-A45B-4616-B086-B0DDD64895F0,Vincristine,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,MALE,48,C71.0,Central nervous system,Low-grade gliomas
+612,345D975C-E666-4614-81EB-5CCBB5BD2CF7,temozolomide,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,,,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+613,41E4DC71-7767-44C2-9D38-110DCD37B451,Carmustine,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1891,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+614,41E4DC71-7767-44C2-9D38-110DCD37B451,Temozolamide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1891,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+615,41E4DC71-7767-44C2-9D38-110DCD37B451,Bevacizumab,Targeted Molecular therapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,1891,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+616,048056CD-39DD-4134-A58B-70BEBB3DD2FF,Temozolamide,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Stable Disease,,MALE,50,C71.0,Central nervous system,Low-grade gliomas
+617,C45E02E5-7E3C-4F36-8B8D-F54617E8A436,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+618,432FE4A9-2CDC-4323-AFF0-59E2FDEDA194,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Complete Remission/Response,Complete Response,,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+619,DCBBACA6-A24B-4BED-95DE-314CFF71E436,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,50,C71.0,Central nervous system,Low-grade gliomas
+620,A343FBE3-147A-4656-9E90-5408298CA12C,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+621,A343FBE3-147A-4656-9E90-5408298CA12C,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+622,A343FBE3-147A-4656-9E90-5408298CA12C,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+623,A343FBE3-147A-4656-9E90-5408298CA12C,Carmustine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Clinical Progressive Disease,,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+624,A343FBE3-147A-4656-9E90-5408298CA12C,Teniposide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Clinical Progressive Disease,,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+625,A5E10E2E-5157-487B-88DC-6C70AD5E244A,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Complete Remission/Response,Complete Response,,FEMALE,22,C71.0,Central nervous system,Low-grade gliomas
+626,B10A9314-FD40-459E-97EA-AFFC636DCEEA,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,24,C71.0,Central nervous system,Low-grade gliomas
+627,B10A9314-FD40-459E-97EA-AFFC636DCEEA,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,24,C71.0,Central nervous system,Low-grade gliomas
+628,B10A9314-FD40-459E-97EA-AFFC636DCEEA,Carmustin,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Clinical Progressive Disease,,MALE,24,C71.0,Central nervous system,Low-grade gliomas
+629,B10A9314-FD40-459E-97EA-AFFC636DCEEA,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Clinical Progressive Disease,,MALE,24,C71.0,Central nervous system,Low-grade gliomas
+630,3E4851CA-4D69-4035-A2DD-8ED6E70F1FFB,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,58,C71.0,Central nervous system,Low-grade gliomas
+631,6D2C49C3-0721-4BD2-B39F-7872F2DE996D,Temozolamide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,34,C71.0,Central nervous system,Low-grade gliomas
+632,A1192DF3-7667-4D1E-A1A0-79F6CC827DCF,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Stable Disease,,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+633,F79420CA-B0AE-417C-95F7-D28C35760202,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+634,F79420CA-B0AE-417C-95F7-D28C35760202,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Partial Remission/Response,,,FEMALE,59,C71.0,Central nervous system,Low-grade gliomas
+635,A418FE65-DFDD-4C84-B27C-B4567B50F457,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Stable Disease,,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+636,A418FE65-DFDD-4C84-B27C-B4567B50F457,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+637,A418FE65-DFDD-4C84-B27C-B4567B50F457,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,,,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+638,A418FE65-DFDD-4C84-B27C-B4567B50F457,Lomustin,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+639,A418FE65-DFDD-4C84-B27C-B4567B50F457,Pembrolizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Progressive Disease,,,FEMALE,38,C71.0,Central nervous system,Low-grade gliomas
+640,081B6532-0ED4-445A-BECB-CB2290F4854D,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,42,C71.0,Central nervous system,Low-grade gliomas
+641,A80B0FAB-6189-497F-997F-77234B69179C,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,57,C71.0,Central nervous system,Low-grade gliomas
+642,A80B0FAB-6189-497F-997F-77234B69179C,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,57,C71.0,Central nervous system,Low-grade gliomas
+643,A80B0FAB-6189-497F-997F-77234B69179C,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,57,C71.0,Central nervous system,Low-grade gliomas
+644,A80B0FAB-6189-497F-997F-77234B69179C,Lomustine,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,57,C71.0,Central nervous system,Low-grade gliomas
+645,94B95C07-5F70-4A1B-B40F-DC13F6A160D5,Lomustine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+646,94B95C07-5F70-4A1B-B40F-DC13F6A160D5,Procarbazine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+647,94B95C07-5F70-4A1B-B40F-DC13F6A160D5,Vincristine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,39,C71.0,Central nervous system,Low-grade gliomas
+648,01A13ABA-74A4-4895-A5AD-E5119925C202,Carmustine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+649,01A13ABA-74A4-4895-A5AD-E5119925C202,Teniposide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,48,C71.0,Central nervous system,Low-grade gliomas
+650,6A8241A8-D9EE-414B-89FD-4C3B9F181CC7,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,30,C71.0,Central nervous system,Low-grade gliomas
+651,6A8241A8-D9EE-414B-89FD-4C3B9F181CC7,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,FEMALE,30,C71.0,Central nervous system,Low-grade gliomas
+652,6A8241A8-D9EE-414B-89FD-4C3B9F181CC7,Carmustine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Clinical Progressive Disease,,FEMALE,30,C71.0,Central nervous system,Low-grade gliomas
+653,6A8241A8-D9EE-414B-89FD-4C3B9F181CC7,Bevacizumab,Targeted Molecular therapy,Alive,WITH TUMOR,Partial Remission/Response,Clinical Progressive Disease,,FEMALE,30,C71.0,Central nervous system,Low-grade gliomas
+654,6A8241A8-D9EE-414B-89FD-4C3B9F181CC7,Irinotecan,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Clinical Progressive Disease,,FEMALE,30,C71.0,Central nervous system,Low-grade gliomas
+655,194E8231-E8D4-477F-8C62-E11F2484ECCE,Lomustine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+656,194E8231-E8D4-477F-8C62-E11F2484ECCE,Procarbazine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+657,194E8231-E8D4-477F-8C62-E11F2484ECCE,VINCRISTINE,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+658,032096A6-1923-44B9-A1CB-181BED041C8E,Lomustine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,52,C71.0,Central nervous system,Low-grade gliomas
+659,032096A6-1923-44B9-A1CB-181BED041C8E,Procarbazine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,52,C71.0,Central nervous system,Low-grade gliomas
+660,032096A6-1923-44B9-A1CB-181BED041C8E,Vincristine,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,52,C71.0,Central nervous system,Low-grade gliomas
+661,765588AA-075F-477F-9C18-099D018D3A1B,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Complete Remission/Response,Stable Disease,,FEMALE,54,C71.0,Central nervous system,Low-grade gliomas
+662,427F4D23-2B76-4A2A-A498-0C3473F57169,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,,,FEMALE,36,C71.0,Central nervous system,Low-grade gliomas
+663,94A2FF09-F7AC-4AEA-A2B2-0DC1B82AE635,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+664,78A212BC-A740-46BF-A10D-0B9809A5BB3F,Temozolamide,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,35,C71.0,Central nervous system,Low-grade gliomas
+665,58650D08-7685-41DE-9AE0-21665F8F449F,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,46,C71.0,Central nervous system,Low-grade gliomas
+666,A6975EB0-CFA6-4B7A-BBE4-72BBDD3D3B6F,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Stable Disease,,MALE,27,C71.0,Central nervous system,Low-grade gliomas
+667,A6975EB0-CFA6-4B7A-BBE4-72BBDD3D3B6F,Temozolamide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Stable Disease,,MALE,27,C71.0,Central nervous system,Low-grade gliomas
+668,A6975EB0-CFA6-4B7A-BBE4-72BBDD3D3B6F,Carmustine,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,27,C71.0,Central nervous system,Low-grade gliomas
+669,7883E417-A793-4614-9528-6C2E9E44379F,Temozolamide,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,961,FEMALE,44,C71.0,Central nervous system,Low-grade gliomas
+670,7883E417-A793-4614-9528-6C2E9E44379F,Nimustine,Chemotherapy,Dead,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,961,FEMALE,44,C71.0,Central nervous system,Low-grade gliomas
+671,C4F522C9-BFF5-4899-8D27-C105DAB795A9,Temozolomide,Chemotherapy,Alive,,Progressive Disease,Clinical Progressive Disease,,MALE,70,C71.0,Central nervous system,Low-grade gliomas
+672,C4F522C9-BFF5-4899-8D27-C105DAB795A9,Temozolomide,Chemotherapy,Alive,,Progressive Disease,Clinical Progressive Disease,,MALE,70,C71.0,Central nervous system,Low-grade gliomas
+673,CC8614C4-D535-4AD9-82F0-F4DC7AD11D0F,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Partial Remission/Response,Stable Disease,,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+674,D13AC936-87A9-4164-BDAB-02CCF3908CFE,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Complete Remission/Response,,,FEMALE,43,C71.0,Central nervous system,Low-grade gliomas
+675,EE6BF12F-8A73-49E2-B566-368B2B42165B,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+676,8643437F-CD1B-47C8-86BD-87B6C2F80747,Temozolomide,Chemotherapy,Alive,WITH TUMOR,Progressive Disease,Clinical Progressive Disease,,MALE,32,C71.0,Central nervous system,Low-grade gliomas
+677,B3720405-CE3F-49C7-A5D9-BBFFD06F6AEF,Temozolomide,Chemotherapy,Alive,TUMOR FREE,,,,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+678,B3720405-CE3F-49C7-A5D9-BBFFD06F6AEF,Procarbazine,Chemotherapy,Alive,TUMOR FREE,,,,MALE,63,C71.0,Central nervous system,Low-grade gliomas
+679,9B161C41-4F76-4ED1-B60F-2B093BC70EDB,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Complete Remission/Response,Clinical Progressive Disease,1242,MALE,31,C71.0,Central nervous system,Low-grade gliomas
+680,61FF31A4-4FDC-476C-B456-2A2FED4BAE6B,Procarbazine,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+681,61FF31A4-4FDC-476C-B456-2A2FED4BAE6B,LOMUSTINE (CCNU),Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+682,61FF31A4-4FDC-476C-B456-2A2FED4BAE6B,VINCRISTINE,Chemotherapy,Alive,TUMOR FREE,Complete Remission/Response,Complete Response,,MALE,40,C71.0,Central nervous system,Low-grade gliomas
+683,A66A3847-7570-4486-8845-86B6125104A2,Temozolomide,Chemotherapy,Alive,,,Stable Disease,,FEMALE,50,C71.0,Central nervous system,Low-grade gliomas
+684,CDD1FD4C-3427-496C-8391-4AEB6730D3CC,temodar,Chemotherapy,Alive,WITH TUMOR,,,,MALE,54,C71.0,Central nervous system,Low-grade gliomas
+685,66C52A31-6503-40B5-A55E-FA476EAF0567,temodar,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+686,66C52A31-6503-40B5-A55E-FA476EAF0567,Vincristine,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+687,66C52A31-6503-40B5-A55E-FA476EAF0567,Procarbazine,Chemotherapy,Alive,WITH TUMOR,,,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+688,66C52A31-6503-40B5-A55E-FA476EAF0567,Lomustine,Chemotherapy,Alive,WITH TUMOR,,,,MALE,25,C71.0,Central nervous system,Low-grade gliomas
+689,0073A136-D5F4-4FD6-88F9-711768F2ABC6,Temodar,Chemotherapy,Alive,WITH TUMOR,,Stable Disease,,FEMALE,44,C71.0,Central nervous system,Low-grade gliomas
+690,10887E42-444D-49FC-AEE5-DD0E9FC4EA54,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,44,C71.0,Central nervous system,Low-grade gliomas
+691,284680B2-F961-402D-8740-E5F9E4FB4A98,Temozolomide,Chemotherapy,Alive,WITH TUMOR,,,,FEMALE,36,C71.0,Central nervous system,Low-grade gliomas
+692,2C982CFB-4112-4E27-8293-25AA9E01FAAE,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Partial Response,,FEMALE,35,C71.0,Central nervous system,Low-grade gliomas
+693,4FB16AEE-DF08-441A-846B-558E0EFE8342,Temozolomide,Chemotherapy,Dead,WITH TUMOR,Stable Disease,,245,MALE,66,C71.0,Central nervous system,Low-grade gliomas
+694,42156C6A-416E-4832-9C95-CEE6084B0910,Temodar,Chemotherapy,Alive,WITH TUMOR,Stable Disease,Stable Disease,,MALE,65,C71.0,Central nervous system,Low-grade gliomas

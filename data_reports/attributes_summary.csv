@@ -1,0 +1,63 @@
+Column Name,Data Type,Number of Missing Values,Percentage of Missing Values,Number of Unique Values,Example Unique Values,mean,std,min,25%,50%,75%,max
+Study ID,object,0,0.0,1,['lgggbm_tcga_pub'],,,,,,,
+Patient ID,object,0,0.0,1122,"['TCGA-02-0001' 'TCGA-02-0003' 'TCGA-02-0004' 'TCGA-02-0006'
+ 'TCGA-02-0007']",,,,,,,
+Sample ID,object,0,0.0,1122,"['TCGA-02-0001-01' 'TCGA-02-0003-01' 'TCGA-02-0004-01' 'TCGA-02-0006-01'
+ 'TCGA-02-0007-01']",,,,,,,
+Absolute Extract Ploidy,float64,161,14.349376114081997,175,[3.47 1.96  nan 1.93 1.89],2.501207075962539,0.945149128330134,1.08,1.95,2.01,3.28,8.33
+Diagnosis Age,float64,75,6.684491978609626,75,[44. 50. 59. 56. 40.],51.423113658070676,15.77596377802931,10.0,39.0,52.0,63.0,89.0
+ATRX status,object,302,26.916221033868094,2,[nan 'WT' 'Mutant'],,,,,,,
+BCR Status,object,0,0.0,2,['IGC' 'NCH'],,,,,,,
+BRAF-KIAA1549 fusion,object,455,40.55258467023173,2,[nan 'WT' 'Fusion'],,,,,,,
+BRAF V600E status,object,302,26.916221033868094,2,[nan 'WT' 'Mutant'],,,,,,,
+Cancer Type,object,0,0.0,1,['Glioma'],,,,,,,
+Cancer Type Detailed,object,0,0.0,1,['Diffuse Glioma'],,,,,,,
+Chr 19/20 co-gain,object,38,3.3868092691622103,2,['No chr 19/20 gain' nan 'Gain chr 19/20'],,,,,,,
+Chr 7 gain/Chr 10 loss,object,38,3.3868092691622103,2,['Gain chr 7 & loss chr 10' nan 'No combined CNA'],,,,,,,
+DAXX status,object,303,27.00534759358289,2,[nan 'WT' 'Mutant'],,,,,,,
+ESTIMATE combined score,float64,455,40.55258467023173,667,[      nan 3824.016  6748.518  3264.993  1912.6479],1791.1561626386808,1713.0970310403816,-1669.9597,483.72564,1536.7584,2992.4499,7626.793
+ESTIMATE immune score,float64,455,40.55258467023173,667,[      nan 2092.535  3210.6    1816.812  1115.6961],1094.667811071964,1055.0606021549945,-1122.4048,276.725375,971.7021,1879.6095,4314.654
+ESTIMATE stromal score,float64,455,40.55258467023173,667,[      nan 1731.481  3537.918  1448.181   796.9518],696.4883645592204,717.6968419911592,-617.8775,186.6554,571.067,1109.297,3945.004
+Neoplasm Histologic Grade,object,75,6.684491978609626,3,['G4' nan 'G2' 'G3'],,,,,,,
+Neoplasm Histologic Type Name,object,75,6.684491978609626,4,['glioblastoma' nan 'astrocytoma' 'oligodendroglioma' 'oligoastrocytoma'],,,,,,,
+HM27,object,0,0.0,2,['Yes' 'No'],,,,,,,
+HM450,object,0,0.0,2,['No' 'Yes'],,,,,,,
+IDH-1P10Q Subtype,object,29,2.5846702317290555,2,['Non-codel' nan 'Codel'],,,,,,,
+IDH/codel subtype,object,148,13.19073083778966,3,['IDHwt' nan 'IDHmut-non-codel' 'IDHmut-codel'],,,,,,,
+IDH-specific DNA Methylation Cluster,object,242,21.568627450980394,6,['IDHwt-K2' nan 'IDHwt-K1' 'IDHmut-K1' 'IDHwt-K3'],,,,,,,
+IDH-specific RNA Expression Cluster,object,462,41.17647058823529,7,[nan 'IDHwt-R3' 'IDHwt-R2' 'IDHmut-R3' 'IDHwt-R1'],,,,,,,
+IDH status,object,127,11.319073083778965,2,['WT' 'Mutant' nan],,,,,,,
+Karnofsky Performance Score,float64,425,37.878787878787875,8,[ 80. 100.  60.  nan  90.],81.30559540889527,14.54836899743391,20.0,80.0,80.0,90.0,100.0
+MGMT promoter status,object,190,16.93404634581105,2,['Unmethylated' nan 'Methylated'],,,,,,,
+Mutation Count,float64,310,27.629233511586452,76,[nan 41. 21. 46. 42.],28.67118226600985,19.6708803436886,0.0,17.0,26.0,38.0,377.0
+Oncotree Code,object,0,0.0,1,['DIFG'],,,,,,,
+Original Subtype,object,85,7.575757575757576,8,['Classical' 'Proneural' 'Mesenchymal' 'G-CIMP' 'Neural'],,,,,,,
+Overall Survival (Months),float64,75,6.684491978609626,417,[11.8  4.7 11.3 18.3 23.2],19.130276981852916,24.217606741985072,0.0,5.4,11.7,21.15,211.0
+Overall Survival Status,object,76,6.7736185383244205,2,['1:DECEASED' '0:LIVING' nan],,,,,,,
+Pan-Glioma DNA Methylation Cluster,object,190,16.93404634581105,6,['LGm5' nan 'LGm4' 'LGm1' 'LGm6'],,,,,,,
+Pan-Glioma RNA Expression Cluster,object,77,6.862745098039216,5,['LGr4' nan 'unclassified' 'LGr3' 'LGr1'],,,,,,,
+Percent aneuploidy,float64,37,3.297682709447415,1085,[0.4249     0.14798821 0.11788142 0.23905456 0.25745367],0.2023921695732719,0.17400206843100433,5.52e-06,0.097699129,0.161447534,0.227486409,0.947727817
+Absolute Purity,float64,161,14.349376114081997,82,[0.49 0.9   nan 0.6  0.93],0.7295421436004162,0.18168481907546247,0.16,0.62,0.77,0.87,1.0
+Random Forest Sturm Cluster,object,477,42.513368983957214,6,"[nan 'Mesenchymal' ""RTK II 'Classic'"" ""RTK I 'PDGFRA'"" 'IDH']",,,,,,,
+RNA-SEQ Data,object,0,0.0,2,['No' 'Yes'],,,,,,,
+RPPA,object,0,0.0,2,['No' 'Yes'],,,,,,,
+RPPA Cluster,object,649,57.84313725490197,2,[nan 'K1' 'K2'],,,,,,,
+Number of Samples Per Patient,int64,0,0.0,1,[1],1.0,0.0,1.0,1.0,1.0,1.0,1.0
+Sex,object,75,6.684491978609626,2,['Female' 'Male' nan],,,,,,,
+SNP6,object,0,0.0,2,['Yes' 'No'],,,,,,,
+Somatic Status,object,0,0.0,1,['Matched'],,,,,,,
+Study,object,0,0.0,2,['Glioblastoma multiforme' 'Brain Lower Grade Glioma'],,,,,,,
+Supervised DNA Methylation Cluster,object,244,21.74688057040998,7,['Mesenchymal-like' nan 'Classic-like' 'G-CIMP-low' 'LGm6-GBM'],,,,,,,
+Telomere length estimate in blood normal (Kb),float64,981,87.43315508021391,140,[   nan 6.0662 6.0381 3.2392 6.4733],5.4734510638297875,1.4883859502166874,1.4191,4.5276,5.484,6.3253,10.6402
+Telomere length estimate in tumor (Kb),float64,983,87.61140819964349,139,[    nan  4.6869 15.2656  2.6509  2.31  ],6.002635971223022,4.811948289685763,0.4822,2.5212,4.6462,7.824949999999999,29.2683
+Telomere Maintenance,object,799,71.21212121212122,3,[nan 'ATRX' 'TERT' '-/-'],,,,,,,
+TERT expression (log2),float64,455,40.55258467023173,93,[       nan 3.80735492 4.39231742 3.45943162 7.        ],2.424859118269865,2.338476393994181,0.0,0.0,2.321928095,4.392317423,10.509775
+TERT expression status,object,455,40.55258467023173,2,[nan 'Expressed' 'Not expressed'],,,,,,,
+TERT promoter status,object,793,70.67736185383244,2,[nan 'WT' 'Mutant'],,,,,,,
+Tissue Source Site,object,0,0.0,38,"['MD Anderson Cancer Center' 'Henry Ford Hospital' 'UCSF' 'Duke'
+ 'Emory University']",,,,,,,
+TMB (nonsynonymous),float64,310,27.629233511586452,76,[       nan 1.36666667 0.7        1.53333333 1.4       ],0.9551313628900053,0.656450448952057,0.0,0.566666666667,0.866666666667,1.26666666667,12.6
+Transcriptome Subtype,object,224,19.964349376114082,4,['NE' 'PN' 'ME' nan 'CL'],,,,,,,
+U133a,object,0,0.0,2,['Yes' 'No'],,,,,,,
+Whole Exome Sequencing,object,0,0.0,2,['No' 'Yes'],,,,,,,
+Whole Genome Sequencing,object,0,0.0,2,['No' 'Yes'],,,,,,,

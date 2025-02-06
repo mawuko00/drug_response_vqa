@@ -1,0 +1,32 @@
+Column Name,Data Type,Number of Missing Values,Percentage of Missing Values,Number of Unique Values,Example Unique Values
+bcr_patient_uuid,object,0,0.0,45,"['bcr_patient_uuid' 'CDE_ID:' 'a43e5f0e-a21f-48d8-97e0-084d413680b7'
+ '1843C82E-7A35-474F-9F79-C0A9AF9AA09C'
+ '0BF573AC-CD1E-42D8-90CF-B30D7B08679C']"
+bcr_patient_barcode,object,0,0.0,45,"['bcr_patient_barcode' 'CDE_ID:2003301' 'TCGA-FA-8693' 'TCGA-FA-A4BB'
+ 'TCGA-FA-A6HN']"
+bcr_drug_barcode,object,0,0.0,227,"['bcr_drug_barcode' 'CDE_ID:' 'TCGA-FA-8693-D42021' 'TCGA-FA-8693-D42022'
+ 'TCGA-FA-8693-D42023']"
+bcr_drug_uuid,object,0,0.0,227,"['bcr_drug_uuid' 'CDE_ID:' '135AF783-B37A-4F9F-A347-8BEACD26AFDC'
+ 'D67B69A6-39D3-4F73-AE3E-83F14F085549'
+ '36E866F8-678B-4A70-B1CB-5C7DF42164E8']"
+form_completion_date,object,0,0.0,26,['form_completion_date' 'CDE_ID:' '2013-4-9' '2013-10-14' '2014-10-8']
+stem_cell_transplantation,object,0,0.0,4,['stem_cell_transplantation' 'CDE_ID:3090688' 'NO' 'YES']
+stem_cell_transplantation_type,object,0,0.0,4,"['stem_cell_transplantation_type' 'CDE_ID:2730901' '[Not Available]'
+ 'Autologous']"
+days_to_stem_cell_transplantation,object,0,0.0,6,"['days_to_stem_cell_transplantation' 'CDE_ID:3414613' '[Not Available]'
+ '501' '2656']"
+therapy_regimen,object,0,0.0,4,['regimen_indication' 'CDE_ID:2793511' 'Primary' 'PROGRESSION']
+pharmaceutical_therapy_type,object,0,0.0,4,['therapy_type' 'CDE_ID:2793530' 'Chemotherapy' 'Immunotherapy']
+pharma_type_other,object,0,0.0,3,['therapy_type_notes' 'CDE_ID:2001762' '[Not Available]']
+pharm_regimen,object,0,0.0,10,"['pharm_regimen' 'CDE_ID:3366758' 'Single Agent Therapy (please specify)'
+ 'Other Pharmaceutical Regimen (please specify)' 'CHOP-14']"
+pharm_regimen_other,object,0,0.0,25,"['pharm_regimen_other' 'CDE_ID:3366930' '[Not Available]'
+ 'CAV+Bleomycin+Etoposide' 'ABOD']"
+pharmaceutical_therapy_drug_name,object,0,0.0,63,"['drug_name' 'CDE_ID:2975232' 'Doxorubicin' 'Cyclophosphamide'
+ 'Vinblastine']"
+pharma_adjuvant_cycles_count,object,0,0.0,14,['number_cycles' 'CDE_ID:62590' '[Not Available]' '6' '1']
+total_dose,object,0,0.0,76,['total_dose' 'CDE_ID:1515' '[Not Available]' '660' '12']
+pharmaceutical_tx_started_days_to,object,0,0.0,51,['days_to_drug_therapy_start' 'CDE_ID:3392465' '102' '46' '13']
+pharmaceutical_tx_ongoing_indicator,object,0,0.0,5,['therapy_ongoing' 'CDE_ID:3103479' 'NO' 'YES' '[Not Available]']
+pharmaceutical_tx_ended_days_to,object,0,0.0,54,['days_to_drug_therapy_end' 'CDE_ID:3392470' '132' '62' '108']
+tx_on_clinical_trial,object,0,0.0,4,['tx_on_clinical_trial' 'CDE_ID:3925111' 'NO' 'YES']
